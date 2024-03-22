@@ -31,3 +31,6 @@ obj[key] = 'test value';    // obj 안에 key의 test 값 넣기!!!
 
 console.table(obj);
 
+// 프로퍼티 추가 순서는 정수 프로퍼티는 자동 정렬되고,
+// 그 외의 프로퍼티는 객체에 추가한 순서 그대로 정렬이 된다.
+
